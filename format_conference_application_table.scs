@@ -1,0 +1,15 @@
+format_conference_application_table_json
+<- sc_node_not_relation;
+<- format;
+=> nrel_main_idtf: 
+	[формат компонента таблицы заявок на участие в конференции ПИ (json)] 
+	(* 
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf: 
+	[format of UI component conference application table (json)] 
+	(* 
+	<- lang_en;;
+	*);
+=> nrel_mimetype:
+	[application/json];;

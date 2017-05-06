@@ -1,0 +1,11 @@
+{
+     "sources": [
+        
+        "src/conference_application_table-common.js",
+        "src/conference_application_table-paintPanel.js"
+    ],
+
+    "component": "src/conference_application_table-component.js",
+
+    "target": "static/components/js/conference_application_table/conference_application_table.js"
+}
