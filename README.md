@@ -31,11 +31,17 @@ Installation instruction
 #Start OSTIS system with integrated component:
 
 cd ostis/scripts
+
 chmod +x update_conference_table_component.sh
+
 ./update_conference_table_component.sh
+
 ./build_kb.sh
+
 ./run_sctp.sh
+
 In new terminal tab in ostis/scripts folder (Ctrl+Shift+T):
+
 ./run_scweb.sh
 
 Open localhost:8000 in browser and choose conference_application_table_code in external languages tab (second button above search input).
