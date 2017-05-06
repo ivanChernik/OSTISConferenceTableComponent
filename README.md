@@ -46,5 +46,7 @@ In new terminal tab in ostis/scripts folder (Ctrl+Shift+T):
 
 Open localhost:8000 in browser and choose conference_application_table_code in external languages tab (second button above search input).
 
+See examples of screen: https://github.com/ivanChernik/OSTISConferenceTableComponent/wiki
+
 More details about ui-component development and integration see in: https://github.com/MikhailSadovsky/ostis-UI-component-sample/wiki
 
